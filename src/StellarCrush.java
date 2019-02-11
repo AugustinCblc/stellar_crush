@@ -31,7 +31,6 @@
  */
 
 
-
 public class StellarCrush {
   // Main game class
   
